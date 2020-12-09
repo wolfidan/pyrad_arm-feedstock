@@ -5,9 +5,13 @@ Home: http://meteoswiss-mdr.github.io/pyrad/
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyrad_arm-feedstock/blob/master/LICENSE.txt)
 
 Summary: MeteoSwiss Pyrad, Python tool for radar data processing.
+
+Development: https://github.com/meteoswiss-mdr/pyrad
+
+Documentation: https://meteoswiss-mdr.github.io/pyrad/
 
 This is the MeteoSwiss Pyrad. Pyrad is an open source Python
 module for weather radar data processing. The module controls the
