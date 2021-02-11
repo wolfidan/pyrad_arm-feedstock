@@ -1,7 +1,7 @@
 About pyrad_arm
 ===============
 
-Home: http://meteoswiss-mdr.github.io/pyrad/
+Home: https://github.com/MeteoSwiss/pyrad/
 
 Package license: BSD-3-Clause
 
@@ -9,9 +9,9 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyrad_arm-feeds
 
 Summary: MeteoSwiss Pyrad, Python tool for radar data processing.
 
-Development: https://github.com/meteoswiss-mdr/pyrad
+Development: https://github.com/MeteoSwiss/pyrad/
 
-Documentation: https://meteoswiss-mdr.github.io/pyrad/
+Documentation: https://pyrad-mch.readthedocs.io/en/stable/
 
 This is the MeteoSwiss Pyrad. Pyrad is an open source Python
 module for weather radar data processing. The module controls the

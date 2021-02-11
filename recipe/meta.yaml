@@ -35,7 +35,7 @@ test:
     - pyrad
 
 about:
-  home: http://meteoswiss-mdr.github.io/pyrad/
+  home: https://pyrad-mch.readthedocs.io/en/stable/
   license: BSD-3-Clause
   license_family: BSD
   license_file: LICENSE.txt
@@ -48,11 +48,11 @@ about:
     developed in the framework of the Atmospheric Radiation Measurement (ARM)
     Climate Research Facility for working with data from a number of
     precipitation and cloud radars. This package is provided for convenience
-    to the Py-ART comunity. If you would like to get the full funcionality of
-    Pyrad please used pyrad_mch, which runs with the MeteoSwiss version of
+    to the Py-ART comunity. If you would like to get the full functionality of
+    Pyrad please use pyrad_mch, which runs with the MeteoSwiss version of
     Py-ART.
-  doc_url: https://meteoswiss-mdr.github.io/pyrad/
-  dev_url: https://github.com/meteoswiss-mdr/pyrad
+  doc_url: https://pyrad-mch.readthedocs.io/en/stable/
+  dev_url: https://github.com/MeteoSwiss/pyrad
 
 extra:
   recipe-maintainers:
