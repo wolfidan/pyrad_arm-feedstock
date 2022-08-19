@@ -1,6 +1,6 @@
 {% set name = "pyrad_arm" %}
-{% set version = "0.6.0" %}
-{% set sha256 = "81365313fce28a97b12465c6409ccb761b0301ae2a31a0d02eb06add8eb7d3b9" %}
+{% set version = "1.4.5" %}
+{% set sha256 = "baa2fd3872bf42f7d50bf9fedc6b410ede00c2c7b347ca3761ed01a7b4b74431" %}
 
 package:
   name: {{ name|lower }}
